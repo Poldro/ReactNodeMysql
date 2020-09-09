@@ -2,9 +2,9 @@
 
 - npm install in /template
 
-- npm install in /server
+- npm install in /server 
 
-- creare carta db, file .mysql e configurare database in ../connectionDB
+- creare cartella db, file .mysql e configurare database in ../connectionDB
 
 
 - npm start in /template
