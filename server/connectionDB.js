@@ -5,7 +5,7 @@ exports.createConnectionDB = () => {
         host: "localhost",
         user: "root",
         password: "",
-        database: "provaesame"
+        database: ""
       });
     return con;
   }
