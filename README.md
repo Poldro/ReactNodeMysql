@@ -1,12 +1,12 @@
 # empty_project
 
--- npm install in /template
+- npm install in /template
 
--- npm install in /server
+- npm install in /server
 
--- creare e configurare database in ../connectionDB
+- creare carta db, file .mysql e configurare database in ../connectionDB
 
 
--- npm start in /template
+- npm start in /template
 
--- nodemon ./server.js localhost 8080 in /server
+- nodemon ./server.js localhost 8080 in /server
